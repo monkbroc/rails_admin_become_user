@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["jvanier@gmail.com"]
   s.homepage    = "https://github.com/monkbroc/rails_admin_become_user"
   s.summary     = "Rails Admin plug to sign in as a Devise user"
-  s.description = "Adds a custom action to Rails Admin to because a selected user in the application."
+  s.description = "Adds a custom action to Rails Admin to become a selected user in the application."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
