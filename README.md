@@ -2,7 +2,7 @@
 
 Rails Admin plugin to become a Devise user in the main application
 
-[![Gem Version](https://badge.fury.io/gh/monkbroc%2Frails_admin_become_user.svg)](https://badge.fury.io/gh/monkbroc%2Frails_admin_become_user)
+[![Gem Version](https://badge.fury.io/rb/rails_admin_become_user.svg)](https://badge.fury.io/rb/rails_admin_become_user)
 [![Code Climate](https://codeclimate.com/github/monkbroc/rails_admin_become_user.png)](https://codeclimate.com/github/monkbroc/rails_admin_become_user)
 
 ## Overview
