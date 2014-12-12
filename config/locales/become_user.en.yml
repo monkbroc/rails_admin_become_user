@@ -1,0 +1,9 @@
+---
+en:
+  admin:
+    actions:
+      become_user:
+        menu: Become this %{model_label}
+        message: You are now signed in as %{object_label}
+        error_no_route: "No route error. Check that all the paths in ApplicationController.after_sign_in_path_for are prefixed with main_app. For example, main_app.rails_admin_path or main_app.home_path. Also add router_name: :main_app to the devise routes.rb. For example, devise_for :users, router_name: :main_app"
+
